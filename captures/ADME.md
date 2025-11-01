@@ -1,3 +1,0 @@
-# GitHub Upload Test
-
-OK!
